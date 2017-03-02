@@ -1,0 +1,8 @@
+.material-icons:hover {
+  cursor: pointer;
+  color: red;
+}
+
+body {
+  font-size: 120%;
+}
